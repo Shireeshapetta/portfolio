@@ -119,6 +119,22 @@ const certifications = [
     file: '/certificates/cyber-security-digital-india.pdf',  // 👈 Fixed filename (hyphen instead of space)
     issuer: 'Tech Mahindra & Skill India'
   },
+   {
+    name: 'UpToSkills',
+    details: 'Internship / Training Certification',
+    year: '2026',
+    file: '/certificates/uptoskills.pdf',
+    issuer: 'UpToSkills'
+  },
+
+  // ⭐ NEW: UpToSkills Experience Letter
+  {
+    name: 'UpToSkills Experience Letter',
+    details: 'Internship Experience Letter',
+    year: '2026',
+    file: '/certificates/experience_letter_shireesha_petta.pdf',
+    issuer: 'UpToSkills'
+  }
 ]
 
 const education = [
