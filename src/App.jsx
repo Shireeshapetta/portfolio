@@ -132,7 +132,7 @@ const certifications = [
     name: 'UpToSkills Experience Letter',
     details: 'Internship Experience Letter',
     year: '2026',
-    file: '/certificates/experience_letter_shireesha_petta.pdf',
+    file: '/certificates/experience-letter.pdf',
     issuer: 'UpToSkills'
   }
 ]
